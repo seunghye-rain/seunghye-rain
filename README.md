@@ -10,7 +10,7 @@
 ## 🏃 Activity
 - 📢 광고연구회 (2020.03 ~ 2021.06)  
 - 💻 이화여자대학교 중앙 컴퓨터동아리 **ECC** (2024.03 ~ 2025.07)  
-- 🚀 9oormthon Univ Ewha 4th (2025.03 ~ 2025.09)  
+- ☁️ 9oormthon Univ Ewha 4th (2025.03 ~ 2025.09)  
 - 🌍 GDG on Ewha 6th & 7th — **DevRel Member** (2024.09 ~ )
 
 
