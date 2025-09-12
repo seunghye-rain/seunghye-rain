@@ -1,5 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=fae689ff&height=높이&section=header&text=Seunghye%20Yang&fontSize=20&section=header&fontColor=ffffff" />
 
+## 🎓 Education
+📍 **Pusan National University** (2020.03 ~ 2022.02)  
+   - Major: Media & Communication  
+
+📍 **Ewha Womans University** (2022.03 ~ )  
+   - Majors: Computer Science, Communication & Media
+
+## 🏃 Activity
+- 📢 광고연구회 (2020.03 ~ 2021.06)  
+- 💻 이화여자대학교 중앙 컴퓨터동아리 **ECC** (2024.03 ~ 2025.07)  
+- 🚀 9oormthon Univ Ewha 4th (2025.03 ~ 2025.09)  
+- 🌍 GDG on Ewha 6th & 7th — **DevRel Member** (2024.09 ~ )
+
+
 
 ## 🖥️ Skills
 
